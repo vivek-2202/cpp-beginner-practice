@@ -2,6 +2,7 @@
 using namespace std;
 #include<cmath>
 int main()
+//wap to find maximum of two numbers.
 { /*
 
       int num1, num2;
@@ -18,6 +19,7 @@ int main()
        {
          cout<<"num2 is max";
        }
+       //wap to print no.in square pattern.
     int n = 7;
      for(int i= 1; i<= n; i++)
      {
@@ -27,6 +29,7 @@ int main()
 
          cout << endl;
      }
+     //wap to print no.from 1to 16 increasing order in aquare form.
      int n = 4;
      int num = 1;
      for (int i = 1; i <= n; i++)
@@ -38,6 +41,7 @@ int main()
          }
          cout << endl;
      }
+     //wap to print star pattern.
      int n = 4;
      for (int i = 0; i < n; i++)
      {
@@ -47,6 +51,7 @@ int main()
          }
          cout << endl;
      }
+     //wap to print a,b,c,d,e...in square pattern.
      int n = 4;
      char ch = 'A';
 
@@ -60,6 +65,7 @@ int main()
          }
          cout << endl;
      }
+     //wap to print star pattern.
      int n = 10;
      for ( int i = 0; i < n; i++)
      {
@@ -69,6 +75,7 @@ int main()
          }
          cout << endl;
      }
+     //wap to print pattern.
      int n = 4;
      for (int i = 0; i < n; i++)
      {
@@ -78,6 +85,7 @@ int main()
          }
          cout << endl;
      }
+     //pattern problem.
      int n = 4;
      char ch = 'A';
      for (int i = 0; i < n; i++)
